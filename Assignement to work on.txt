@@ -1,0 +1,1489 @@
+I have an assigment to work on which has the objectives bellow:
+
+1. Understand some key concepts linked to team success.
+2. Reflect on the importance of the concepts to team-building and the relationship
+3. between them.
+
+Instructions:
+
+Deliverable 1 (50%)
+
+For your first deliverable, you are going to watch a series of videos on key concepts related
+to building high-performing teams. Watch each video in full in the order specified below. Take
+notes as you are watching so that you can complete deliverable 2 below:
+
+	1. The Fearless Organization keynote (Amy Edmondson, Professor of Leadership at
+	Harvard Business School):(Video Link) In 2012, Google launched Project Aristotle to
+	uncover the secrets of high-performing teams. It was Amy Edmondson’s research on
+	“psychological safety” that became the foundation of their findings. In this talk, she
+	explains the concept and presents some of her key findings into this core feature of
+	successful teams.
+
+	The transcripts of this video is this:
+
+good afternoon everybody the fearless organizations okay picture this if you
+will a nurse working the night shift in a busy urban hospital notices that the
+med dose seems a little high fleetingly
+she considers calling the doctor at home to check the order just as fleetingly
+she remembers his disparaging comments about her abilities last time she called him at home
+oh but certain the dose is in fact fine the patient is on an experimental
+protocol after all she heads to the bedside with the Med okay an automotive
+engineer knows that an engine cannot pass required emissions testing he
+designs software to fool the regulators instead a senior executive recently
+joined a large global corporation is unenthusiastic about a plan to take over
+but all of his new colleagues seem uniformly enthusiastic about it he
+doesn't share his concerns these are three moments of silence where voice was
+needed now you may think if I were in their shoes I would have spoken up or
+you may be aware as I am just how often this happens in the modern workplace
+right so when I talk about fearlessness I'm really talking about a place where people wouldn't hold back with those
+important work utter ensues so why does this happen why is this so widespread and it's really something very simple
+the fact is that nobody wakes up in the morning and jumps out a bit because they can't wait to get to work today to look
+ignorant incompetent intrusive or negative am i right I mean most of us want to look smart helpful positive
+we call these interpersonal risks right they're very subtle I think most of us
+don't spend a lot of time thinking oh I don't want to look stupid in this moment but it governs our behavior in
+interesting ways and the good news is as individuals at work we have learned in
+fact we're pretty skillful at it to manage interpersonal risk all we have to do if I don't want to look ignorant
+don't ask questions I don't want to look him confident don't admit my mistakes and so on and so forth
+the point is impression management is second nature so when I talk about
+fearlessness I'm not talking about crazy risk-taking right I'm not talking about
+jumping out of a plane I'm simply talking about raising your hand right
+I'm simply talking about voice and yet this goes against some aspects of human
+nature and socialization that are quite deep so just a few of them impression management is second nature right there
+are a handful and you can help me think of more but there are a handful of human instincts that get in our way and when I
+see getting away I don't mean necessarily individually although that's true too but I mean organizationally I
+mean if you want your organization to be a learning organization and who doesn't we need to get over these right so
+here's just a few and these will be some of the few that I'll address today but
+you know the fear of failure the desire to get it right the first time you know sort of perfectionism the instinct to
+point fingers to divert blame reactance to people trying to control us
+complacency the tendency to share successes and so on and so forth these are all very human these are all very
+understandable these are not helpful in the learning organization or for
+innovation more generally so I have that for that reason for these reasons spent
+the last 20 years or more studying something I call psychological safety which is quite simply a belief that I
+can bring my full self to work it's a belief that in this workplace with this
+group with this team I will not be penalized in any way for speaking up
+with work or Ella and ideas questions concerns and yes even mistakes if it's helpful you can
+think of this as a sense of permission for candor it's a sense that it is
+expected this won't be easy certainly won't be easy but it is expected that around here we are open we are direct we
+are more interested in serving the customer in creating new value than in
+covering ourselves impression management so it's a lot we've learned a lot about
+this over the years one of the things we've learned loud and clear is that psychological safety tends not always
+but it tends on average to go up with higher status so in any given organization and these are data from 23
+North American intensive care units in 23 North American hospitals US and
+Canada and my colleague Ingrid animart and I did a study of quality improvement
+work in these settings in these settings where the knowledge is always developing where the medicine is always getting
+more advanced where the practices and even the human behavior of such simple things like hand-washing is in a
+perpetual journey toward better right so we studied these 23 hospitals and in all
+of them there were about four or five quality improvement projects actively ongoing at any given time we used a now
+validated survey measure of psychological safety and lo and behold the higher you go in the medical status
+hierarchy the more you report believing that your voice is welcome at work does
+that surprise anyone no it wasn't surprising to us - in fact I admit it was hypothesis one right so that was
+that was simply a kind of demonstration of what we thought and by the way these are statistically significant what did
+surprise us however is that when we took these units apart when we looked at them
+one by one this status induced psychological safety gap was not
+consistent across all of them and some of them the psychological safety across
+rural groups was absolutely flat but flat and high which
+meant that another I see use as their called it was far steeper than what you see here so two questions likely come to
+mind question one does it matter and the answer to that one is a
+resounding yes right so three years into this study we found that those with the
+flat high psychological safety had an eighteen percent improvement in
+morbidity and mortality compared to the others lives were being saved suffering
+was being reduced so question two what explains the difference it wasn't architecture it wasn't
+resources it wasn't team composition these organizations were virtually identical on all of those things the
+difference was in fact in a nutshell inclusive leadership the medical
+director the top doc the greet the degree to which the medical director of these intensive care units practiced
+what others could easily rate in a survey measure as inclusive leadership that meant they acknowledged the
+uncertainty of the work they acknowledge their own phal ability and they proactively sought input that made all
+the difference that made people feel psychologically safe at work we'll talk more about that and it also allowed them
+to to engage in the real work of learning and improving so over the years
+twenty years into this I have found this is not just a frontline phenomenon as my senior executive example at the
+beginning Illustrated this happens up and down the ladder in the corporate
+world is one of my favorite cartoons I think it's darn good social science so if we take a look what do we know is
+going on here first of all we know it's a senior management team why you got it
+all men all white men for that matter so we also know they're about to drive off
+a cliff right so the boss presumably the guy standing has said all those in favor
+say aye and sure enough around the table a
+veritable chorus of eyes of yeses right but the thought bubbles let us know that
+something else is going on indeed now in real life it turns out you
+can't see the thought bubbles but you ought to know they're there right and inclusive leadership would be asking for
+them would be asking about them would be digging in more on that later so this is what we know after about 20 years of
+research many leaders many managers still have the following question in the
+back of their mind but wait doesn't fear motivate people to work hard and the
+truth is yes it does especially if the work is simple individual objectively
+measured you don't know when they're holding back in other words you don't need to know the thought bubbles and so
+on and so forth but in the real world where I live and where you live fear is not a good motivator why not well recent
+research and not so recent research in neuroscience shows that fear actually diverts cognitive resources we need
+those resources in today's world from parts of the brain that manage such important things is working memory or
+processing new information so this obviously impairs some of the activities that are terribly important today and
+some people can't do their best work when they're afraid especially I would
+argue when they're afraid of each other so interpersonal fear leads us to hold
+back right it leads those thought bubbles to remain on expressed and more
+specifically hierarchy creates fear naturally that doesn't mean don't have hierarchy by the way I'm not saying do
+or don't I'm saying when you do as those medical directors showed us it's really
+important to manage it well so those medical directors with the flat hide pattern didn't have less hierarchy than
+the others they simply found ways to manage it in such a way that they didn't
+miss out on any of the brilliant knowledge from the front lines so leaders at any level and this is what
+I'm gonna spend a lot of time with you this afternoon is they can do things small things almost embarrassingly small
+things to reduce interpersonal fear okay so over the years myself and others have
+done a number of studies really in the hundreds now and one thing I do want to make clear
+before I describe those results is I'm not talking about being nice right so and I think the term itself may be
+misleading or send the wrong impression right psychological safety is not about being nice and cozy and loving every
+minute of the workday in fact almost quite the opposite right it's about being direct it's about being candid it
+lives at the group level this is really interesting right so in a hospital or in a large
+corporation you will find that this interpersonal construct varies greatly
+from group to group to group all right so it sort of lives at the branch level or the unit level or the project level
+it does not live at the organizational level lots of studies now as I said that
+show strong relationships with learning behaviors of all kinds error reporting
+quality improvement creativity and on and on it goes but what about
+performance right well in 2018 it's a little harder to kind of do this but
+when I first started talking about this many executives that I encountered said
+yeah but I get it and I'm all about learning organization but are you asking
+me to dial it back a little on accountability on performance standards
+right and I can understand that I call this a mental model this is sort of a way that one might think about this and
+I want to propose a better mental model right I don't think this is a balance beam I don't think this is attention I
+think this is to really hard jobs I think today's leaders at all levels need and you've known this forever to
+help people to coach people to engage people in delivering high performance
+right to give them feedback to give them guidelines indeed to give them training and obviously that's not enough but it
+is important and you need to work hard to create a climate where people know
+their voice is welcome if you don't do either I call this the apathy zone
+that's a sad state of affairs this is where people quit and day you know they're still getting a paycheck but that's about it and yes if
+all you worried about and I don't recommend this is psychological safety you could inadvertently create something
+we like to call the comfort zone you know I love my colleagues love this workplace and I don't really have to
+work very hard that's not my aspiration for your organization's right so um here's it
+does this one doesn't keep me up at night because maybe I just don't see it that often anymore
+this one does right the anxiety zone this is where those nurses and respiratory therapists were working in
+the less effective units this is where that automotive engineer was working
+this is where that senior executive was working this is where that nurse was working right they know they care deeply
+about performance and they're afraid to speak up right where do we want to be
+this is the Holy Grail I call it the learning zone the point I'm trying to make is there's no theoretical trade-off
+between high standards and psychological safety in fact in today's world I think they not only
+can go hand in hand I think they must go hand in hand and let's face it if the work is interdependent or uncertain let
+alone both you need both right that becomes the learning zone becomes one in
+the same as the high performance zone I just don't see how you can get high
+performance in a volatile uncertain complex ambiguous world without both without great motivation and engagement
+and feedback and a sense of psychological safety to bring my full self to work so I'm not alone in finding
+this and I haven't done all the studies myself thankfully one of the really good ones was done by Google just a few years
+ago so I woke up to find the New York Times Sunday magazine is a big deal you
+know nice nice cover story and this was in write what Google learned in its quest to build the perfect team you can
+imagine I was pretty interested in reading this article it's long one of
+those long long New York Times magazine articles and halfway through I
+find this sentence when julia rosovsky who led the study and her colleagues
+encountered the site this the concept of psychological safety in academic papers no less it was as if everything suddenly
+fell into place now this was after I have to say Google as you know loves data and this was after trying just
+about everything they could you know composition where you went to school what skills you had you know hey
+all the Myers bring anything you name was put into the model and nothing worked
+nothing seemed to explain the difference between high-performing and lower performing teams until they encountered
+the concept of psychological safety and academic papers now I was feeling pretty good about this because when you clicked
+through the online version that was in fact my paper that they found um and
+then I realized I looked at the date again I realized that that paper had been published in 1999 so 17 years is a
+long gestation rate even in the medical world so I didn't feel so good any more
+but I do love this study and I loved what Julia and her colleagues made of it they put this on their website the
+rework regarding work website and they said you know there are five things that
+matter impact you know and you all know this in this audience for sure that people believe their work matters and
+makes it different meaningful right I find my work personally meaningful some
+degree yes of structure and clarity about the roles and responsibilities that I can look to my right and left and
+depend on my colleagues to do what they say they will do all of that matters and you know that but Julia's quote not mine
+psychological safety was far and away the most important of the dynamics we
+found it's the underpinning of the other four in Chapter one of my new book I
+call it the underpinning hardly to describe and introduce this concept because I think it's a great it's a
+great word so avoidable failures let's just some recent not so recent but
+recent headlines and these I talk about in the in book but you'll know these these will
+not come as a surprise to you 2015 shining star of banking heralded by all
+as the world's most valuable bank and highly respected company serving one in
+three households in the US the CEO had a brilliant strategy it was called cross
+selling and the aspiration was to sell more and more products to existing customers that makes good sense after
+all they are the people who already know and love us let's just sell them something else let's take care of all of
+their financial services needs made good sense for a while in fact the data were
+trending upwards the motto is going for great meaning we want you to have sold
+eight separate products to any customer you're selling to and they were heading
+that's compared to an industry average of a little over two so they seem to be on the right track branch folks in the
+branches as you might imagine we're certainly feeling the pain feeling the stress they told us to do whatever it
+takes to sell I couldn't leave for the day until I met my target managers were constantly checking I thought I was
+having a heart attack and of course ultimately the pressure boils over and I
+won't go into all these details but these these range from pulling the wool
+over your eyes to downright fraud and and so what is this what does this tell us this tells us that much as we're
+enthusiastic in this room and elsewhere about stretch goals stretch goals plus closed ears is a recipe for failure and
+then the headlines were coming out in droves these are not headlines that any
+of us ever want to see about our company and so the sim a similar story plays out
+you know this one well as I'm sure also VW the pride of Germany green car of the
+year the world's largest automaker and of course the defeat device which I
+alluded to earlier and the defeat device with software to give the impression
+of passing regulations rather than actually passing them not because they
+want to we're lazy and wanted to take a shortcut but because this engine diesel engine simply couldn't do it right but
+the message was so clear that no is not an acceptable answer around here that
+this seemed an acceptable behavior which of course it isn't and again headlines that shook the world
+and are not the ones you would want in your organization so in describing
+Martin Winterkorn the CEO a senior executive says there was always a distance a fear and a respect if he's
+gonna come and visit you your pulse would go up if you presented bad news those were the moments it could become
+quite unpleasant and loud and demeaning I don't think you ever want that to be
+said about you or the senior leaders to whom or not so senior leaders that we
+serve and so again a recipe for failure stretch goals and closed ears so how do
+you do better all right how do you build psychological safety and I'm gonna say in a word leadership and that's not just
+one thing right it's fundamentally two categories of things one are structures
+structures that you put in place to help voice be heard and the other is your own
+behaviors and again leaders at any level your own behaviors that send strong
+signals so Pixar is a great example especially of the structures but also of
+the leadership behaviors so Pixar for those of you who've been living under a rock um is a very successful
+organization and with 16 really an unprecedented 16 Academy Awards plus
+consistent commercial success you know movies that just make Odell's of money and not to mention the sale of the
+company itself making rules of money we can we can we can recognize their
+success so what do they do well ed catmull one of the cofounders and
+longtime CEO describes and in his own book he talks about this beautifully the importance of
+candor and he of course he wonderful scientists that he is he constrains his remarks to the creative industries I
+think they apply far more broadly but a hallmark of a healthy creative culture
+is that people feel free to share ideas and opinions that is a veritable definition of psychological safety so
+how do they do it well one big piece is what they call the brain trust and the
+brain trust is a structure right it's a ritual it's a routine it's a small group meeting held periodically regularly to
+assess movies as they are being made to help the director solve the problems
+that he or she is encountering now the key elements here is one that it's regular we can expect it doesn't make it
+always fun in fact it may rarely be fun the feedback is I don't care what your title is it's peer based it's focused on
+the project not the person they're very deliberate about that you can't the comments are provided as suggestions not
+of course as commands not as orders but this this structure this discipline this setting helps the seating of it helps to
+make it an environment of candor of psychological safety but that is very
+very clear on how important it is for leaders to set the tone if we he says
+can talk about our mistakes it makes makes it easier safe in fact for others
+to do so as well so I want to talk about just three simple things right three simple things that leaders can do to
+build psychological safety in a small part of an organization in a team or
+throughout depending on where you sit and it starts with setting the stage what does that mean well it means
+framing the work helping people what's a frame well a frame is an implicit belief
+about reality right a frame is chosen in the art world to bring our eye to the
+painting itself we don't care about the frame here we care about it because it's all you can see but the frame is a way
+of helping us see the painting the frame itself doesn't matter but it influences how we
+see how we act how we respond in framing our deliberate actions to shape people's
+frames in productive ways so the first thing we need to recognize in setting
+the stage in framing the work is that all work is not the same and I like to talk about a spectrum from highly
+routine repeating high-volume work doesn't make this is not lower importance work in fact this is often
+where the profits come from it's really important work but we we go from the left from high-volume well-understood
+work cause-and-effect relationships are deeply understood into say variable
+uncertain complex work where we have a lot of knowledge but it's customized and complex and it's just a little bit of
+uncertainty here so we're we're vigilant about it and then we go all the way to the right where we don't have a clue all
+right we're innovating we don't have a solution yet all right so framing the
+work starts with recognizing where are we and what does it mean well as we go
+to the right uncertainty goes up necessarily which means what else goes
+up failure right necessarily if you are a scientist in a lab you are routinely
+facing failure and you don't last long as a scientist unless you get comfortable with that right so leaders
+framing their work are sort of making these messages explicit making sure
+people understand and I'll give you examples but here's the here's the fundamental leadership question for
+framing the work what instincts you know what human instincts need to be
+overridden to do this kind of work well let's go through these one by one I'm
+gonna give you some examples in the next few slides that span that spectrum right
+they span from pure innovation to pure routine work and in each case we will
+see a thoughtful leader who does this deliberately and often to help people
+recognize that their voice is not only welcome it's darn near required okay let's take
+a look so one by one so this is David Kelly the co-founder and longtime CEO of
+IDEO arguably the world's most celebrated innovation consultancy and what does
+David's say he says this all the time fail often to succeed sooner there's a little team in that photo
+that's just gotten a brand new assignment for a client and what is
+David saying is he's saying I just don't I don't care go ahead and fail it doesn't really matter of course not
+right he's saying this is the kind of work for which stunning success is only
+created through early small inexpensive failures right he's framing the work now
+the deeper question I think is why does he need to do that surely these young people went to Stanford probably they're
+smart they know that right they know innovation requires failure we all know it why does he need to tell them because
+they too have the following instincts right they don't want to fail they're
+smart high achieving young people they would much rather succeed and therefore they will like you and I they will
+hesitate to take a risk right so he's running around telling them this in my
+terminology he's framing the work he's making sure that their instincts don't get in the way of excellence we'll go a
+little to the left here with Krista Quarles the CEO of the restaurant
+reservation app open table and she says early off and ugly it's okay right it
+doesn't have to be perfect because then I can course-correct much faster and and what she's saying here is in framing the
+work she is saying all of a sudden my clicker stopped working she's saying we
+can be great but we'll do it through course correction in action don't let perfect be the enemy of good enough for
+learning what's the instinct with the instinct is that tendency but certainly I have and maybe some of you to wait
+until it's really good before I submit that paper right which is not a bad tendency in academia but not
+a helpful tendency in the restaurant app business okay similarly Jeff Bezos recently said if
+you're good at course correcting then being wrong is far less costly than you think again the same instinct is
+addressed here the tendency to wait until it's perfect before going forward and we move further to the left this is
+an old quote and you can tell it's an old quote remember it's like that cartoon right gentlemen I take it we are
+in complete agreement Alfred Sloan a celebrated business leader from the
+early 20th century and in his own autobiography he tells this story now he's got his senior team and yes once
+again they were all men not so surprising almost a hundred years ago and he says gentlemen I take it were in
+perfect agreement on this decision the decision was whether or not to buy another company so you can almost see
+the smile on Sloan's face right wrong right Sloan was a little smarter than
+we're giving him credit so what happened was the rest of this quote is quite interesting he says then I propose we
+postpone further discussion of this matter until our next meeting and what
+is he doing here he is basically saying if you guys were any good you would have had something to say he's saying four
+strategic and decision-making descent means depth he's framing the work for
+them this is not an opportunity for saying yes to the boss right the instinct the tendency to agree with the
+boss it's as old as evolution itself he knew wise man he knew he needed to
+override it here's another wise man who knew he needed to override the same tendency i'm eisenhower um leading up in
+the days leading up to d-day I consider it to be the duty of anyone who sees a
+flaw in my plan not to hesitate to say so I've no sympathy with anyone who
+doesn't brook criticism we're here to get the best possible results again framing the work input is needed and
+again the same instinct that tendency I think especially this is the commander
+of the Allied forces after all in the military this tendency might even
+/ learned so and and and next healthcare delivery where I've done a lot of my
+research julie morass the c chief operating officer of children's hospital in clinics in Minneapolis Minnesota says
+routinely to anyone who will listen health care is by its nature a complex
+error-prone system what is she doing she's framing the work right speaking up
+saves lives why does she do that because there is an instinct even there to hide
+failures to hide mistakes right also in health care this is Brent James this is
+also a photograph from a New York Times Magazine article a cover story a number
+of years ago where Brent James who was the chief medical officer at Intermountain Healthcare in Utah the
+United States was very much celebrated for being one an early pioneer in the
+realm of getting physicians to adhere to protocols right so he would essentially
+say to the physicians here's our protocol we created it by pulling
+together all the experts in this disease and figuring out what's the right recipe
+for taking care of patients right now you may wonder how on earth does Brent James get red blooded American
+physicians to follow orders and you'd be right to wonder and here's the rest of
+the story he says all we asked we'd like you to follow our protocol and he says we'd like you to deviate from it anytime
+your clinical judgment suggests that's the right thing to do all we ask is you tell us what you did and why
+so what's he doing framing the work he's essentially saying this isn't cookbook medicine I'm trying to free up your big
+brains to do those judgment calls that are so important to us by making the
+simple stuff protocol eyes right and notice that last bit all we ask is you
+tell us not because we want to you know hold your feet to the fire or anything like that because we want our protocol
+to improve right then indeed every six weeks they reconvene they look at all
+the deviations they update the protocol right so the other part of the frame here here is
+that constant improvement is how great care gets delivered what's the instinct that James is trying
+to override well the first one is that professionals will resist being told
+what to do and the second one is that we're - that that risk of complacency that what we're doing today we're so
+good by the way were the best in the country that we don't need to get better not true and last but not least I'm
+going to take you all the way back to the most routine setting of all and that's automotive assembly and I draw
+from a Fast Company article of years ago when and it highlights a young manager
+this was about Toyota's first foray into a fully owned manufacturing facility in
+the United States in Georgetown Kentucky they talked about a manager named Jim
+Wiseman who was head of North American relations in the in in the camp in the
+in the plant and he says he remembers the exact moment when he realized the
+Toyota wasn't just another workplace but a different way of thinking about work
+notice thinking right it's a framing it's clearly this framing ahead here and he and he explained that in Prior jobs
+and he'd had many he was steeped in the culture of you know celebrating your successes and certainly not talking
+about your problems in meetings now in this plant which at the time was led by
+Fujio cho later the chairman of toyota worldwide they'd have a Friday afternoon senior staff meeting and why isn't said
+I'd go in there and I'd talk about some things we'd been doing quite well he says I boasted a little after a few
+minutes I sat down and mr. Cho kind of looked at me I could see he was puzzled
+now this to me is an astonishing statement because in almost every organization I've been in it is not
+puzzling behavior when a junior manager boasts in front of a senior manager
+right it's normal it's expected it's routine and I think Cho was genuinely puzzled and I think that shows you what
+corporate call is all about he said Jim Sun we know you're a good manager otherwise we
+wouldn't have hired you but please tell us about your problems so we can work on them together so framing the work two
+things one problems are a team sport your successes we trust you to do those
+just fine thank you problems are the things that put our big brains together and we'll make progress it's also this
+wonderful as good as they were and they were good it's a statement that we will
+be better tomorrow right and that's a that's a frame that runs through everything they do instincts overridden
+boast to superiors hide problems and complacency so the implicit message is
+being sent down the spectrum here a very and in each case they override human
+instincts that get in the way of the learning organization and they very -
+they're very deeply context-dependent that is the that's the point I'm trying to make here and two quick things to
+close up with right the second after all that time on setting the stage which I do believe is quite important second is
+don't just assume even if you've done a fantastic job setting the stage the people will just naturally come to you
+be proactive invite it ask good questions right say things like those
+medical directors in the ICUs said right I might miss something I need to hear from you I'm new in this role what are
+you seeing out there I'm not an expert in X and notice that these kinds of micro behaviors do two things they lower
+the costs those very real costs of speaking up those costs that those first three vignettes did not overcome and
+interestingly if I ask you a direct question you feel awkward not answering
+right so in that case I have raised the cost of silence silence is usually free
+but if I ask your direct question it suddenly becomes costly and I'm gonna argue that's a good thing so your best
+tool as a leader is to ask good question what's a good question a good question is one that focuses on what matters that
+invites careful thought and gives people room to respond they come in two buckets bucket one help us broaden what
+might we be missing who has a different perspective notice that that question is
+a variation on but better than does anyone have a different perspective
+right which puts a pretty high hurdle you know anyone out there who wants to slow us down good okay next right verses
+this says someone's got the treasure I just don't know who it's an Alfred Sloan question really and to deepen what leads
+you to think so what data do you have what concerns do you have what do you think might happen if we did X and so on
+and so forth this is a valuable valuable tool and it's absolutely free all you
+have to do is remember to use it and last but not least respond appreciatively you can set the stage you
+can invite input and then if the first time someone brings you bad news you bite their head off the psychological
+safety evaporates pretty quickly so what does this look like Alan Mulally at Ford led one of the most celebrated
+turnarounds of this century and he brought from Boeing where he came he
+brought a system of color coding for his direct reports he said bring me you know green for good news yellow for concerns
+and red for it we got a problem okay first couple of senior staff meetings
+and everything was green you got it right so finally he says listen team we
+are on track to lose thirty billion dollars this year is there anything not
+going well inviting participation notice after some hesitation mark fields head
+of North America raised his hand and said yeah we got a serious problem with the new model Explorer proceeded to
+explain it everyone in the room held their collective breath fully believing
+and they reported this that he would now be fired right fired for telling the
+truth that's obviously not what happened or I wouldn't tell you this story what happened was Malia put his hands together and started to applaud and said
+mark thank you so much for that clear line of sight that's great visibility now what can we do to help you out
+and as Malia put it the next week the charts looked like a rainbow you've got to make it a positive experience because
+it isn't naturally it's got to be that the red is a gem I welcomed it right
+contrast to the quote I gave you earlier of Winterkorn and you get where I'm going I think they
+were out of time so I won't do this one but I'll just put this last slide here setting the stage is about framing the
+work inviting engagement is proactive expressing interest expressing curiosity asking questions and then responding in
+a way that embraces messengers and fosters learning for more for more here
+it is whoops there it is the fearless organization thank you very much
+
+
+
+	2. Why You Should Have Your Own Black Box (Matthew Syed, multi-bestselling
+	author and highly acclaimed speaker in the field of high performance): (Video Link)
+	A growing body of research links growth mindset to both individual and team
+	performance. In this TED talk, Matthew Syed explains the concept and discusses its
+	importance to team success.
+
+The transcripts of the following talk is the following:
+
+I'd like, if I may, to talk about high performance.
+How does it happen?
+And I want to argue
+that the way we conceptualize success, the way we think about success,
+radically shapes the behaviors that we deploy
+in order to achieve success.
+In fact, you can give a questionnaire to any group of people -
+and this has been given to undergraduates, primary school children, fund managers,
+Premier League footballers -
+to probe the way they think about success:
+How does high performance happen?
+And broadly speaking, you get two kinds of answer to that question.
+Over here, people say,
+"Well, to be really good at my job, or a dimension of skill within the job,
+you've got to have talent,
+you've got to have the gift, you've got to have aptitude;
+there's no getting away from that."
+This I want to suggest is a dominant view in Western culture and beyond,
+and it's often called "the fixed mindset."
+Over here, you get a slightly different answer, where people say,
+"Well, talent isn't irrelevant;
+talent is a real phenomenon, but in a complex world, it isn't enough."
+And they talk about hard work, practice, the systems, resilience,
+perseverance, collaboration.
+People over here say things like "You get out what you put in."
+I want to emphasize this is a more subtle distinction than it sounds.
+Over here, they're not saying that these ingredients are irrelevant,
+but they think talent is dominant.
+Vice versa over there.
+The reason we know that is on some versions of this questionnaire,
+they're asked to rate
+the relative importance of these two things on a scale.
+But having found out where people sit on this spectrum
+and what is effectively their answer to one question,
+you can go and measure behavior.
+And it turns out that the behavior is fundamentally different.
+And I want to illustrate this by contrasting the behaviors
+of two different safety-critical industries:
+aviation and health care.
+I want to argue that aviation is a growth-mindset industry.
+They hire talented people,
+but they've realized that talent is not enough:
+they have to learn, they have to engage, with the data, with the opportunities
+that can drive them towards a better safety record.
+So, what happens when two planes almost hit in mid-air,
+what's sometimes called a near-miss event?
+Well, both pilots voluntarily submit a report.
+The totality of these reports are statistically analyzed to figure out
+what are the systemic weaknesses that are leading to these near-accidents
+so they can make the relevant reforms
+to avert an accident before it's even happened.
+And what happens if, God forbid, there is a crash?
+They don't skirt around it; they don't cover it up.
+They see these accidents as precious learning opportunities.
+Every single aircraft
+is equipped with two almost indestructible black boxes.
+They're actually now integrated in a single unit
+and colored bright orange to aid visibility.
+But one of the boxes records the electronic information;
+the other records how the pilot and co-pilot were interacting
+in the build-up to the crash.
+So the investigation branch can go,
+recover the black boxes from the rubble of the accident,
+and deconstruct precisely what went wrong
+to ensure that the same mistake never happens again.
+Can I just give you one seminal example?
+In the 1940s, B-17 Boeings were crashing inexplicably.
+The industry commissioned a Yale psychologist
+to do an investigation.
+And he found that the switch linked to the landing gear -
+that's to say the wheels -
+and the switch linked to the landing flaps were identical
+and side by side on the dashboard.
+So under the pressure of a difficult landing -
+snow, sleet, rain -
+the pilots were pressing the wrong switch,
+and the planes were belly-flopping onto the runway with catastrophic results.
+He suggested adding a small wheel shape, like a little tab, to one of the switches
+and a small flap shape to the other,
+so they now have an intuitive meaning, easily identified under pressure.
+What happened?
+Accidents of that kind disappeared overnight,
+and almost incidentally,
+it was a birth of ergonomics as a discipline.
+But decades of institutional learning driven by this growth mindset,
+this responsibility to learn in a complex world,
+that "Talent isn't enough,"
+has driven an incredible safety record.
+At the beginning of the last century,
+aviation was one of the riskiest forms of transportation.
+In 1912, more than half of U.S. Army pilots
+died in crashes, in peace time.
+Now, I don't know about you, but that doesn't sound surprising:
+when I look at planes, they look risky.
+But decades of institutionalized learning has driven the accident rate
+to a place where, in 2014, for the major airlines,
+there was one crash for every 8.3 million take-offs.
+I want to suggest that is a cultural and psychological achievement
+driven by this empowering, dynamic mindset.
+And I want to submit to you that this contrasts,
+often quite tragically,
+with health care,
+which I think is in a fixed-mindset place,
+where doctors have long and expensive educations,
+they have letters after their name, some of them have knighthoods.
+But in health care, people think that talent is enough.
+People who're at the top of the hierarchy are supposed to be clinically infallible.
+And so when there is a mistake or a sub-optimal outcome,
+that's quite threatening.
+So instead of saying, "How can we change the procedures
+to make sure the same mistake never happens again?"
+over here, there is a tendency to become defensive,
+to try to cover up the mistake, because you don't want to look untalented,
+or to become self-justifying.
+So doctors will often, when somebody's been tragically killed,
+say, "Well, it wasn't us; it was the patient's unusual symptoms."
+Or, "Well, that's just a complication of the procedure."
+Or a classic one in health care, very well-studied,
+"It's just one of those things."
+But if it's just one of those things,
+where is a motivational impetus to make the reforms
+so that future patients are not harmed in the same way?
+There is also a problem in health care of high blame.
+If clinicians think
+they're going to be sued or litigated or penalized for honest mistakes,
+why would they be open about it?
+The fixed mindset and high blame
+create very specific cultural and measurable dynamics,
+the overall effect of which is to suppress the information
+that is a prerequisite for learning in a complex world.
+And you can see the consequence of this in the hard data.
+This is just one manifestation of it, by the way.
+Preventable medical error -
+and I want to really emphasize the first word in that formula,
+preventable medical error -
+these are the avoidable mistakes.
+According to the Journal of Patient Safety,
+in the United States, every year, in hospitals alone,
+400,000 people are killed.
+That's like two jumbo jets crashing every day,
+9/11 happening every four days.
+The problem is not the intellectual brilliance of the people in the industry;
+the problem is when you're in the wrong culture,
+the intellectual and creative energy does not go towards learning
+but towards self-justification.
+The statistics are also very damaging in the UK.
+Another example, I would suggest, of a fixed-mindset culture, to an extent,
+is economics.
+And it's a very interesting finding that the high reputation economists,
+as measured by how often they visit TV studios,
+(Laughter)
+make the worst predictions.
+(Laughter)
+Why is that?
+The reason is when they make an error of prediction,
+instead of learning from it,
+instead of enriching and revising their theoretical assumptions,
+they go on to television to come up with those tortuous, ex-post rationalizations
+for why they were right all along.
+The low-reputation economists can get their ego out of the way.
+They can see the data in a clear-eyed way
+and therefore make the adaptations with a growth mindset
+that makes them better in the long term in terms of their predictive track record.
+Over here, there is often a negative correlation
+between talent and performance.
+Over here, the growth mindset liberates our talent,
+it enables us to engage with the world,
+and to create that dynamic process of change,
+which is a distinctive feature of all high-performance institutions.
+When Virginia Mason Hospital in Seattle created a growth-mindset culture,
+it was always looking to learn.
+Had talented people,
+but they kept getting better, continuously over time.
+When a nurse gave the patient the wrong medication,
+instead of covering up and self-justifying,
+they did an investigation
+that found that there were two bottles, side by side,
+containing drugs with different pharmacological effects
+but with virtually the same label.
+You may say, "Shouldn't they have got the right label and looked closer?"
+but if you take too long, the patient dies anyway.
+So they changed the labeling to make it clearer.
+It's what you might call a "marginal gain,"
+an "incremental improvement."
+They found that a patient came into the ward
+with a "Do not resuscitate" wristband.
+It was the wrong color because the nurse was color blind.
+So they added text to the wristband - another marginal gain.
+They found that a clockwise turn of the dial
+with certain medical equipment in one half of the hospital
+increased the medication;
+in the other half of the hospital, it was anti-clockwise.
+They didn't know that before, because they hadn't learned.
+So they made the ergonomic design consistent - another marginal gain.
+What happened?
+Their openness, their honesty, their commitment to continual improvement
+drove the insurance liability premiums down by 74 percent.
+It's now one of the safest hospitals in the world.
+That is the culture we need in all of our hospitals.
+But it can only happen when you get the psychological change first.
+Let me give one quick example from sport, if I may.
+Great Britain wasn't terribly good at cycling in the last century.
+We're now the envy of the world.
+It's not because the nation became more talented;
+there wasn't a genetic mutation that hit the British nation.
+It was because a coach came in, Sir Dave Brailsford, who said,
+"You know what? We can improve. We can get better.
+We're going to create a growth-mindset culture."
+And he broke the problem of winning a bike race
+into all of its component parts.
+If we can improve every single one,
+if we've got the curiosity, the inquisitiveness, the tenacity
+to improve every single one by as little as one percent,
+the cumulative effect could be transformative.
+So we're going to test a bike design in the wind tunnel.
+And he found that there were certain inefficiencies;
+he found the weaknesses.
+And then he made the tweaks for an aerodynamic game.
+They changed the diet for another marginal gain.
+They figured out that some of the hotels in rural France were quite ropey,
+so they started transporting the mattresses from stage to stage
+during the Tour de France
+for a marginal improvement in sleep quality.
+They started to use anti-bacterial hand gel
+to cut down on the risk of infections.
+Now, that may sound pedantic, but the cumulative effect
+has meant that in the last century, Britain never won the Tour de France,
+but Britain has won the Tour de France, Team Sky,
+three times in the last four years.
+They hire talented riders,
+but it is the culture that has created this extraordinary success.
+I want to, maybe, finish with the best example of all,
+the most powerful one, which is science.
+Is it not a striking thing
+that between the time of the ancient Greeks
+and the early 17th century,
+Western science did a bit, but not very much.
+Writing in 1620,
+the great philosopher Francis Bacon said,
+"Science has done nothing in the preceding centuries
+to improve the material condition of mankind."
+Isn't that a curious thing,
+that since that time, since the Scientific Revolution,
+science and technology has consistently changed our lives?
+Why this watershed?
+Was there a genetic mutation that made the human brain bigger?
+Was it an intellectual achievement?
+I would argue that it was exclusively a psychological achievement.
+In short, the scientific community moved from there to there.
+That's all that happened.
+For a very long time, scientists - a bit like some senior doctors -
+thought they were super talented and they had all the answers:
+"The Earth is the center of the solar system.
+It's 6,000 years old," and so on.
+And if anyone came up with some interesting data
+that challenged those opinions,
+an opportunity to improve their model of the world,
+these people were killed.
+(Laughter)
+This is a very extreme version of a high-blame culture.
+(Laughter)
+When Galileo - it's exactly the same psychological phenomenon
+that you see in hospitals and many other institutions.
+When Galileo developed a telescope that you could look through,
+and simplify a little bit,
+verify that it is the Sun that is the center of the solar system
+and not the Earth,
+the existing scholars of that time,
+instead of seeing that as a wonderful opportunity
+to enrich their knowledge of the world,
+they didn't want to look.
+And Galileo was forced to recant his views under pain of death.
+It was only when science moved over here
+and recognized that in a complex world, one's intellectual capacity is not enough,
+one has to be willing to learn to create a dynamic process of change.
+And it was the anomalies in the existing theories,
+where they were failing, that set the stage for change
+in rather the same way that the accidents in aviation
+have created the biggest improvements to system safety.
+That's what led from Galileo to Newton, from Newton to Einstein,
+the incredible mysteries of quantum theory,
+and that is how science will continue to improve
+because when you realize that you haven't got all the answers,
+you start to do experiments, you start looking for the data.
+It orients the mind individually and collectively
+towards the learning experiences that always exist out there
+if we're open to them.
+And that's the mindset revolution I'd like to see in our schools.
+At the moment, children don't like to put their hand up in class
+because it might look as if they don't know the answer.
+This, a great deal of fear and defensiveness.
+We need to liberate our children to ask questions, to break the rules,
+to find out more about this world that is so infinitely interesting
+and which we have to engage with.
+Thank you very much indeed.
+
+	3. Pursuing Cognitive Diversity (Matthew Syed): (Video Link) Matthew Syed discusses
+	ideas from the emerging science of cognitive diversity and explains how cognitive
+	diversity supports team and organizational performance in the context of complex
+	problem-solving, creative ideation, and innovation.
+
+	This talk's transcripts is the following:
+
+I want to make an argument about
+diversity from the perspective of
+performance and I want to draw a
+distinction right at the start between
+two kinds of diversity on the one hand
+demographic diversity which is a thing
+that we often think about when we think
+about this term on the other hand there
+is cognitive diversity which is about
+differences in perspectives and insight
+and the models in heuristics we deploy
+to make sense of the world around us and
+also perhaps differences in thinking
+styles some people are quite analytical
+thinkers and others more holistic and
+contextual thinkers imagine you're
+putting together a group of sprint relay
+runners and let's say the fastest four
+runners are all the same gender the same
+race the same age they'll have two
+children watch the same TV programs so
+they're not terribly diverse
+demographically and probably not
+cognitively either and suppose somebody
+Usain Bolt
+sent you you know what if you could
+diversify that team diversity really
+matters and you then started selecting
+slower runners who were indeed diverse
+would this help you in the Olympic
+gold-medal no it would undermine your
+chances of winning Olympic gold medal in
+a sprint relay team you want to have the
+fastest runners and that's basically the
+only criterion of selection if you want
+to win the race and if you could take
+the fastest runner and hypothetically
+clone that runner let's call that person
+Usain Bolt so you now have a team of
+Usain Bolt's that's a fantastic team a
+Jack Salt
+team of clones who are identical to each
+other because every member of your team
+is faster than any member of any other
+team that's gonna win the Olympic Games
+but now let's shift from a simple linear
+task like running to a complex task like
+economic forecasting and let me share
+briefly a brilliant piece of research by
+a psychologist from Duke University
+called jack salt he took two hundred and
+fifty eight economic forecasters and he
+measured their track record he was
+trying to figure out who were the most
+accurate forecast errs and he found that
+there was a distribution
+that was a bell-shaped curve he also
+found that the most accurate forecast
+there was five percent more accurate
+than an average forecaster but then sold
+took the top six forecasters and put
+them in what you might call a nominal
+team and he took the average of their
+The most accurate forecast
+forecasts but when sold took the average
+of the top six forecasters in the
+paddock with the moat with the most
+accurate forecast er what you think was
+more accurate
+I mean after giving the game away here
+but the average of the top six but it
+wasn't just one percent more accurate or
+five percent more accurate or ten
+percent more accurate it was 15 percent
+more accurate and the reason hinges on
+cognitive diversity economic forecasters
+like the rest of us they use a model in
+order to make a prediction a way of
+thinking about the world each of these
+models if the economist is worth their
+salt contains some useful information
+but because if columnist sees different
+Wisdom of the crowds
+models the information contained in six
+moderately valid models must be more
+information than any one model alone if
+you're thinking each of these models
+probably also contains mistakes and
+myths and blind spots and errors that is
+true but the technique of averaging
+eliminates the errors but pulls the
+information if that makes sense this is
+a powerful thing and it's a robust
+finding in social science sometimes
+called the wisdom of the crowds but
+here's the interesting thing when it
+comes to tasks that we're more familiar
+with like problem solving and coming up
+with creative ideas and strategies or
+new products and businesses the power of
+cognitive diversity is even more
+profound and perhaps a good way to make
+the point conceptually is to imagine
+you're putting together a group of ten
+people in a team to come up with
+creative ideas to do the next big thing
+in your business or organization and
+let's also assume that this is a
+talented group of people each of whom
+comes up with ten genuinely useful ideas
+but if they're cognitively homogeneous
+if they
+in the same way and they come up with
+the same 10 ideas you only have 10%
+overall if on the other hand they are
+cognitively diverse and come up with
+different ideas from one another you
+could have a hundred useful ideas think
+about that for a second these are two
+teams composed of individuals who are
+equally talented but the cognitively
+diverse team comes up with almost 1,000
+percent additional creative ideas in the
+space of innovation which is going to
+dominate the future of our economy our
+political institutions and more common
+engineering cognitive diversity relative
+to the context you get this massive
+uplift in what I call collective
+intelligence and the tragedy is two
+things one a psychological point we are
+attracted unconsciously to people who
+think like us when people are mirroring
+our perspective back to us it makes us
+feel smarter it validates our worldview
+when it's a simple task that's fine any
+one person has a solution you surround
+yourself with like-minded others you are
+able to deliver the solution but as the
+complexity increases and no one brain is
+sufficient to solve the problem when
+you're attracted to people who think in
+the same way you're getting no uplift at
+all in collective intelligence and by
+mirroring each other's perspectives you
+become more confident about a solution
+that might be gravely mistaken this is
+why cognitive diversity is so important
+and I believe will become the key
+feature of competitive advantage for the
+next 50 years but here's another thing
+it's not just a psychological problem
+it's a conceptual one I talked to one of
+the most eminent economic forecasters in
+the world I said do you prefer working
+with people who think like you or who
+think differently and he said if I truly
+believe that my model is the best one
+out there
+then by definition I should be working
+with people who think like me that logic
+is extremely compelling it is also
+spectacularly wrong
+	
+
+	4. Everyday Bias Identifying and Navigating Unconscious Judgments (Howard Ross,
+	global thought leader on unconscious bias):(Video Link) Individual and team
+	outcomes are affected by several unconscious biases, such as:
+
+		○ Affinity bias: The tendency to warm up to people like ourselves.
+		○ Halo effect: The tendency to think everything about a person is good
+		because you like that person.
+		○ Perception bias: The tendency to form stereotypes and assumptions about
+		certain groups that make it impossible to make an objective judgment about
+		members of those groups.
+		○ Confirmation bias: The tendency for people to seek information that
+		confirms preexisting beliefs or assumptions.
+		○ Group think: This bias occurs when people try too hard to fit into a particular
+		group by mimicking others or holding back thoughts and opinions. This
+		causes them to lose part of their identities and causes organizations to lose
+		out on creativity and innovation
+
+		In this video, Howard Ross presents the theory of unconscious bias theory and
+		explains how it drives our thinking and behavior.
+
+The transcripts of this talk is the following:
+
+ELIZABETH CURTIS: I'm Elizabeth Curtis. And I'm really excited to welcome all of you here today.
+We're going to be hearing from Howard Ross. Howard is a business consultant who's
+been woodworking for over 25 years in the area of leadership, diversity, inclusion, organizational transformation.
+And we're really lucky to have him here today at Google. You may have seen his recent article in "The New York Times"
+or perhaps heard him on NPR where he's a regular guest. He's the author of two books, and I'm
+really excited that he's going to be giving us a deep dive today into his most recent book, "Everyday Bias."
+How the session is going to run is Howard is going to come up, share a few words with us, and then we'll open things up to Q&A. So with that, over to you.
+HOWARD ROSS: Great. Thanks, Elizabeth. Hi, everybody. I'm really happy to be here.
+I want to start with a story. I was in Jackson, Mississippi about a year ago.
+I was working with some folks at Jackson State University, which is an historically black college. And we were working with the faculty and the deans
+down there, and I had to fly from Jackson to New York City through Memphis that night to work with another client.
+And I got to the Memphis airport in time for the last flight out, and I got to the gate, and as soon as I got to the gate,
+a woman gate attendant comes on and she says, ladies and gentlemen, there will be a 45-minute delay. As soon as the words came out of her mouth,
+I hear this voice boom out from behind me, you talking to us, lady? And I turn around, and there's this guy sitting behind me
+who I would best describe as Santa Claus with an attitude, older white guy, white beard, white hair, well fed, wearing
+overalls and a flannel shirt, carrying a car magazine in his hand. So I had the guy pegged, and I kind of chuckled to myself
+and went about my business working on my computer, preparing a talk that I was giving the next week. And it comes time to get on the airplane 45 minutes later,
+and I get to my seat, and sure enough, who's sitting next to me but Angry Santa Claus. So we did the nod.
+Those of you who travel a lot know what I'm talking about, this sort of thing. And we went about our business, took off.
+And I'm working on my computer. He's reading his magazine. And that's the way it went until we got to New York,
+and it was time for our initial descent. And then we closed computers, and as travelers know, this is the time when airplane chat starts.
+Because it's now safe to get into a conversation. You're not going to get roped into two hours now. And I turn to him and I say, what's taking you to New York?
+And he says, oh, I have a professional meeting. I said, really? What do you do? He says, I'm a radiologist.
+So, boom, there goes that picture. And I say, well, what are you working on? He says, well, actually, he gets very animated.
+He says, we're doing this very cool stuff with functional magnetic resonating imagery where we're looking at the brain, and we're actually
+able to watch the brain and figure out how different parts of the brain respond when people interact with different kinds of people.
+In other words, he's studying exactly what I'm the most interested in, and had I not pegged him as Angry Santa the Car Mechanic, I probably
+could have learned more in a two-hour conversation with him in preparation for my book than in three months of study.
+So I start with that as part of this conversation, because I'm not here to talk about you. I'm here to talk about us.
+This is what we do as human beings, isn't it? We all do this. We come into circumstances. We quickly evaluate what's going on.
+And then we determine something about those people. And usually we don't even have the time to follow up and find out whether that determination is
+true. We just simply start interacting from there. And I know we've got a very short time for this talk,
+and this is a topic that we could easily take 45 days to talk about rather than 45 minutes,
+but I want to-- and I'm also really aware and I want to knowledge that the folks at Google have done some of the most forward-thinking work on this
+that I know of companies doing. So I know some of this is stuff that you may have heard in one form or another, but my own experience has been that you can't
+hear it enough to continue to be focused on this. So i want to just start by sharing just a handful of very quick studies of what we're
+learning about how this shows up. For example, we know because research
+at University of Pennsylvania and Cornell has found that basketball referees tend to give fouls
+to players of the opposite race more than players of their same race. And this is true for both white referees
+and for African American referees. It's different degrees, but nonetheless still the same. We know that people make determinations
+of people's credibility based on accent. Researchers at Tel Aviv University at the University of Chicago found
+that we tend to believe people more if they have an accent that's more similar to us and less if they have an accent that's more different,
+with one exception. Anybody want to guess what it is? AUDIENCE: British? HOWARD ROSS: British. British, yeah. We tend to think people with British accents are smarter.
+They not only make great villains, they are also smarter. One of my clients in New York has
+a guy who grew up in Liverpool, which of course they speak cockney there. He called it gutter English.
+And he said when he goes home to visit his family and then comes back to New York, he says I feel myself getting smarter every mile I fly.
+We also know that hand dominance is a factor. Researchers at Max Planck Institute for Psycholinguistics
+in the Netherlands have found that we tend to make decisions based on hand dominance. In other words, if you're right handed,
+you may be more likely to hire somebody who's sitting on your right side than who happens to interview on your left side. Makes no sense at all, just tends to happen.
+And this is the study I did. I've got an artificial knee, and whenever I go through the TSA process, I have to be screened.
+So I began to notice that when I was dressed in business clothing, I seemed to be going through faster than when I was dressed more casually,
+turns out about 47% faster. Now, I could go on and on, because there are literally over 1,000 studies in the last 10 years alone of this.
+We know that this dynamic happens almost everywhere we are. So the question is, when we look at it relative to height, name,
+race, gender, hand dominance, religion, accent, in almost every kind of human identity factor
+that you can imagine, the question is not do we have bias? The question is really, which are ours?
+And that's hard for us to get as human beings, because for the most part, we've seen bias as a fundamentally bad thing.
+For the most part, we've created this sort of bias-equals-badness paradigm. And that's challenging for us.
+The very notion that we have bias challenges us to be able to look at ourselves in ways
+that are very practical. So what I want to talk about is how that happens, why it happens, and what are some of the things that we're
+learning, we can do about this, both individually and collectively, to create organizations, especially
+where we can make better decisions, not just so that we can be nice to each other or sing "Kumbaya," but so that we can actually
+make good organizational decisions and good talent management decisions. And that shows up in virtually everything we do.
+Now we know that bias is a function, a natural function of the human brain. And it happens for a clear reason.
+What function does bias serve? Anybody?
+Why do we have bias? AUDIENCE: It keeps us safe. HOWARD ROSS: Yeah, it keeps us safe, exactly right. It's a human danger detector.
+We have to quickly determine whether this person is somebody we want to go towards or away from. It triggers fight, flight, or freeze in us.
+And bias is as natural to human beings as breathing. The challenge is when we demonize it, and we start to recognize bias as something
+that if we have we're bad people, it actually puts us into hiding more. It causes us to not look at our biases
+as much but actually deflect from, find reasons for our belief systems. Now, this is challenging as somebody
+who's worked in the diversity space for about 30 years. This is really challenging, because for so long,
+the diversity space has lived inside of this good person-bad person paradigm, if you will. And we're sort of looking for the bad one
+and trying to fix them. This is what a lot of diversity training has been, is find-them-and-fix-them training,
+which is why a lot of times, people come into diversity training like this. And even the discourse that we have
+reinforces that in lots of ways, that we advocate rather than trying to build something together.
+It's inherently problematic. And then we build biases into our institutions as well. So what do we call bias, for example,
+when we all agree to them and even write them down? AUDIENCE: Qualifications. HOWARD ROSS: Yeah, qualifications.
+That's all qualifications are. Qualifications are simply biases that we've all agreed to and written down. Now, that doesn't mean there's anything wrong with them.
+They can be very helpful sometimes. If you're evaluating hundreds and hundreds of resumes, it's valuable to have qualifications
+so that you can sort those resumes quickly. But it's not necessarily particularly helpful in terms of choosing the best person, and it intentionally
+and problematically can sometimes exclude people who are, we might call, the creative eccentrics, the people who
+are outside of the norm of what we do. So we're going to look at, basically, how this works and how it plays itself out.
+Now we know that all human beings have built within us through our life experience we might
+an internal book of rules. It happens all the time. We pick up throughout our life certain ways
+that we're supposed to be. And it's consistent with the things that we've been taught throughout our whole life,
+various different kinds of things that we've learned are the right way to be or the wrong way to be. So for example--
+AUDIENCE: I'm Will. HOWARD ROSS: How did you know to do that, Will? AUDIENCE: You extended your hand. HOWARD ROSS: Right, and in our culture, that's what we do.
+And how did that handshake feel?
+AUDIENCE: Not so strong. HOWARD ROSS: Not so strong, right. See, I didn't shake Will's hand in the way that we usually do it in our culture, which
+is kind of like a wrestling match, you know, glad to meet you, a little bit softer. But for the most part when that happens-- how many people here
+have heard somebody say if somebody shakes hands like that with you at the beginning of an interview, forget it, it's over?
+How crazy is that? Think about it. It's kind of insane, isn't it?-- that we would take one thing like that.
+I could have a disability. I could have an injury to my hand. I could come from one of the one third of the cultures on the planet where shaking hands softer
+is the norm. But that's the kind of reaction we have. By the way, your reaction, Will, was pretty calm
+compared to some I've had. I did that with a leadership team of a major governmental institution, and the guy who I shook hands with
+was this kind of football linebacker guy, and he practically fell off his chair reacting to the handshake.
+So we have literally thousands of rules in our internal rule book. They're unquestioned for the most part.
+They're not rules we even see as rules. We just see them as the way things are. And that rule structure creates in our mind
+what we call schema. Schema are frameworks for looking at the world, that I know you work with in different ways,
+that shape the things that we see and the things that we don't. So for example, look at this picture for a moment.
+And tell me if you can see any discernible image in this picture. What do you see?
+A AUDIENCE: Bunny rabbit. HOWARD ROSS: A bunny rabbit, OK. Anybody else? AUDIENCE: I'd say it was an aerial shot.
+HOWARD ROSS: An aerial shot, OK. Anybody else? a Google Map? AUDIENCE: I kind of see a bird. HOWARD ROSS: A bird.
+Let me make it easier for you. I'm going to superimpose a picture over it now so you can see the actual image.
+Now what do you see? AUDIENCE: Cow. HOWARD ROSS: Cow. Does everybody see the cow? Anybody who doesn't see it yet?
+We could always do a remedial session. But let me point it out to you. So here are the two ears, the two eyes and a nose,
+and this is the forehead, OK? Everybody sees the cow now. Now I'm going to remove the superimposed picture.
+And tell me now if you can avoid seeing the cow. [LAUGHTER]
+Something that wasn't there a minute ago, invisible a minute ago, is now impenetrably in our line of vision.
+This is the way schema works. In this case, I actually consciously shifted the schema to one in which you can now
+see something that wasn't there before. Now we all know this happens. We know that it happens from the standpoint of our jobs.
+Everybody here has certain schema in your job that have you see things that other people don't see.
+There are people who shine shoes, for example, who, when somebody walks by, are not looking at the people.
+They're looking at the shoes. You or I would see the people walking by. They would see the shoes. This is the nature of the way schema works.
+It shapes what we see and what we don't. And if this can be true for something as silly as a picture or as seemingly superficial to us as a particular job
+that we happen to be in at the moment, how can it not be true for us based on these identities with live our whole lives in?
+Our gender, our race, our sexual orientation, our age, the generation we come from-- all of these things are
+fundamentally affecting the schema, affecting the things that we see and the things that we don't. And this is why sometimes we're in circumstances
+where one person or group of people see certain things that other people just don't notice.
+So schema leads to the formation of background. And I background in the sense that I shape the world
+by my experience, that I actually see the world through a filter that is governed by the background experience that I've had.
+It's like a lens through which we filter the world. And background creates a phenomenon
+of a coloration of our world, if you will. It's like a contact lens that gets put over our eyes
+before we even realize that it's there. And the world actually looks blue to us or green to us or orange to us, depending upon what that lens is.
+And we sit there and talk to each other through different lenses and often accuse each other of not seeing things.
+But the reality is, we can't see them, or we're not oriented towards seeing them unless we stop and notice that we have this lens on.
+Now, somebody stops and says, oh, you have a blue lens on. All of a sudden, I look at that white wall color
+blue in a different way. It still looks blue to me, but my awareness that it's blue is different. So our work in trying to understand this relative
+to bias is can we understand how our life experiences have filtered the people and the things we're doing it in a way
+that when we see that difference, it actually gives us the opportunity to make that little mental switch, to understand what we're putting
+into the conversation and others aren't. John Searle, the brilliant philosopher from the University
+of California says, background enables linguistic interpretation to take place,
+enables perceptual interpretation to take place, and it actually structures our consciousness. It actually gives us the world that we see in a profound way.
+And so we're not talking about something that happens to some people. And we're not talking about something that happens to bad people.
+Were talking about something that happens to people, that this is the fundamental way the human mind works, and it impacts us
+on an everyday basis, because background creates context, and context is everything in terms of how we see the world.
+And we know context shifts things quite dramatically and in funny ways. For example, if it's in the middle of winter in Washington,
+DC, where I live, 60 degrees means take off your shirt and lay out and get some sun.
+If it's the middle of the summer when it's 100 degrees, 60 degrees means let's get a sweatshirt. It's cold.
+So context is constantly shifting the way we see things. So let me switch for a moment. This is my granddaughter Sloane.
+She has nothing do with the presentation. I just love showing pictures of my grandchildren. No, but all kidding aside, my second-oldest son
+and this family moved to Washington, where we live, a couple years ago. And they lived with us for a few months
+while they were waiting for their house to be ready. And Sloane came in one night just before dinner, and she asked for a cookie, and I said to her, of course,
+it wasn't a good time to have a cookie just before dinner. She made me promise that I would tell you she's nine now.
+And being five at the time, she still wanted a cookie. So I put her in my lap, and in my wisest grandfatherly voice explained to her that it wasn't a good idea,
+explained to her all the reasons why, a little bit, in five-year-old terms, the physiology of why it wasn't good for your tummy and all this stuff.
+And she listened very thoughtfully and asked questions and the like. And then I finished, and I said, you do understand, sweetie, and she said, yeah.
+Now can I have a cookie? [LAUGHTER] Everybody here knows what I'm talking about, right? We wake up in the morning.
+Today I'm going to eat better. And by lunch, seemingly by itself, our hand is going like this with something we're not supposed to be eating.
+There's something about a dissonance between what we know we should be doing and what we actually do, what we know we should be thinking
+and what we actually think, what we know we should be feeling and what we actually feel. And we're understanding this more and more in the mind.
+So I'm going to talk about five basic functions and patterns of the mind that impact these things relative to bias.
+One is selective attention or inattentional blindness, projection, power and empathy-- and this
+is something I'm really excited about, because some of the newest research we're doing is around power and empathy-- social primacy, and finally,
+the subliminal. Because we know that a lot of stuff is affected subliminally. Now let's start with this guy, 2,500 years ago to Plato.
+Because how Western thought is oriented relative to emotion and reason comes from Plato.
+And there are probably lots of other people who were thinking that, but Plato was certainly the one who we remember.
+Plato, as some of you know who remember Philosophy 101, in his dialogues of "Phaedrus" talked
+about how reason was like the charioteer who held the raging emotions of the horses in place.
+And we've built a culture, particularly in Western culture, that worships at the altar of the rational.
+If you think about it, it's like, are you sure you're being rational about that? You sure you're not being too emotional? It's really built into our way of thinking
+that one is better than the other. It's kind of normal for us to think that way. The only problem is, it's counter
+to what we're learning about the brain. In fact, over 30 years of studying emotional intelligence-- and I'm not
+talking about studying it at Esalen. I'm talking about some of the major universities in the world. We've learned that virtually all of the things
+we do, whether making decisions, strategy, behavior, performance, relationships, all of these things are fundamentally governed by emotion.
+In fact, human beings are far less rational than we are rationalizing.
+In other words, we have an emotional or visceral reaction to something, and we quickly gather the data to support that feeling.
+So if I meet somebody, and I have this moment where I say, there's something about that person I like. Now, even that thought that we have
+after five seconds of meeting somebody is folly if you give it any thought of all. I mean, how could it possibly be about them?
+I've only known them for five seconds. So obviously I'm projecting something on to them. They probably remind me of somebody from my past.
+But nonetheless, that's our response, and then we act accordingly. And this shows up in interviews. So let's say Ana comes in in the morning, and I meet you,
+and I have that feeling, something about you that I like, so I ask you the first question of the interview, and you hem and haw a little bit.
+Without even thinking about it, I say, look, I know it's an interview. Take a breath. Let me ask the question again.
+You get a second chance. Now the interview goes great. I'm making eye contact. I'm laughing at your jokes, whatever.
+Will comes in in the afternoon. Let's say it's not even one of those times when my sleaze alarm goes off, although that sometimes
+happens, not with you, of course. But it sometimes happens. You meet somebody, and they turn you off. But let's say it's more that I'm distracted.
+I just got off a meeting with a client. And it's still on my mind, so I'm only half with you. And I ask you the first question of the interview,
+and this time, as you hem and haw, I just sit there, or even worse, I make one of those quick glances at my watch that you're not supposed to see.
+And now you're sweating bullets. And based on nothing more than that, the interview goes two completely different directions.
+Elizabeth asks me the next day, how did it go? And I say, bright, easy to talk to. I think she'd work out fine here.
+He's OK. I have no idea, no conscious idea, that I had anything to do with those interviews. Is there anybody here who doesn't
+know that you do this to people 25 times a day? Or you pass one person in a hallway, you say hello, somebody else you don't.
+Subtleties, things that are influencing us-- you interview one person in the morning when you're fresh at your desk.
+You interview a second person, even using a structured interviewing process, you interview a second person over lunch,
+and you interview a third person at the end of the day when you're tired, and you've actually conducted three different interviews.
+Even though the structured questions are the same questions. So we're influenced by things that we don't even realize.
+Now, we know, and people like Danny Kahneman and other people have taken us way ahead of this. I know that you've studied this work,
+so I'm not going to spend a lot of time talking about it. But we know that a lot of this happens in the fast brain in the limbic system.
+We see some circumstance or some person. It catalyzes a particular reaction as we filter through the background what we see.
+The faster, the emotional brain, takes over. The amygdala sends a signal to the hippocampus and says,
+what is this? And then to the hypothalamus, the sort of air traffic controller of the brain, which sends the signal to someplace else and then maybe
+to the anterior cingulate cortex or the cingulate gyrus and says, get that foot or leg in action. If I were to take this clicker and throw it to somebody,
+your hand would come up to catch it before you even had a thought. And this is all very important.
+Fast brain is very helpful to us. It's where stereotyping happens.
+We see that person. We make that assessment, smile-- friendly. Fist-- dangerous. Knife above the head-- watch out.
+We know somebody comes up with a knife above our head, we don't look up and say, oh, what is that? I wonder what he's going to do with it.
+It's not a very practical way to operate. And similarly, when we see certain behaviors, we associate with that Now, tremendously helpful,
+tremendously valuable, and tremendously necessary for our survival, also tremendously problematic
+in terms of making assumptions about people at times. And this is the challenge that we have that's coming up.
+In those circumstances, do we really know what we're seeing, or are we reacting to what we're seeing? And we know times when the mind and our eyes
+can even be deceiving. So for example, if you look at this checkerboard-- this is Ted Edelson, who is at MIT.
+When you look at Block A and Block B up here, which one is darker?
+AUDIENCE: A. HOWARD ROSS: Now, A clearly looks darker, and as some of you were saying, what's the trick?
+But A clearly looks darker, right? In actuality, they're exactly the same color.
+Now the reason it looks darker is because the eyes align around a particular expectation.
+The cones and rods actually align around, and we have an expectation. Pattern recognition is one of the most familiar functions
+of the human mind. And most of us are very familiar with the light-dark-light-dark pattern of a checkerboard. It's actually the same color, because the shadowing area
+created by the pillar darkens B and makes it the same color. This is not a computer trick, by the way. You can test it out yourself.
+Dr. Edelson has this available online. So you can look at it. So we're making this assumption that they're
+different when actually they're the same. Now the fascinating thing about this one to me is even though we now know they're the same,
+they still look different. Isn't that extraordinary? You would think that if our rational mind was actually
+leading the way, that now that we know they're the same that we would see them as the same. But it's an indication of how we're
+rooted into these very kinds of things that trigger us in ways that we don't know. And the same thing can happen with people.
+Now even know I know that I should treat that person the same as I treat somebody else, my visceral feeling about that person
+can still in very subtle ways-- so I know you've been dealing with micro behaviors, micro advantages, micro inequities
+that play out through the various ways this happens. Who do I invite to lunch? Who do I pay more attention to?
+We know, for example, from the research we're doing with power that people in power situations tend to make less eye contact when they're listening
+and more eye contact when they're speaking. It shows up a lot in male-female relationships, particularly, that men have a tendency, because societally--
+it's not a personal power, but societally it plays itself out that men will pay more attention, give more eye contact when we're speaking and less eye contact
+when we're listening to women. And I'm talking now archetypically, of course, not about every man and every woman.
+So these are subtleties that can play out in ways. And then, of course, we then associate certain things,
+so projection becomes another piece of this. Projection is simply the dynamic that has us look out there in the world
+and determine what that is based on a prior experience or prior knowledge of what that thing is we're looking at.
+To some degree, we project in every circumstance with everything we're doing. If I look at that form in front of me, I know it's a man,
+because in my mind, I say, oh, that's what men look like. Otherwise everything that we see would be newly experienced.
+And we know this occurs in the brain in the hippocampus. And how it might show up, for example, when diversity
+is concerned-- I'll use an example. I grew up in the "Leave it to Beaver" generation. I know a lot of you probably don't
+know what "Leave it to Beaver" was, but it was one of those sitcoms of the '60s and '70s. They were all the same.
+Dad went off to work in the morning with his briefcase and a suit on. Mom stayed home and did all the domestic chores
+in her pearls and high heels I thought that was bizarre even when I was a kid. Nonetheless, the kids would do something mischievous,
+and dad would come home and solve the family's problems. This was the sitcom MO of the 1960s and early '70s, all virtually the same.
+So if one grew up in that generation, then probably on an unconscious level, you have some association between the role
+of women and domestic responsibility. Now, you're sitting in a meeting,
+and the vice president of production, Jane Smith, walks in. And without even thinking about it, you turn to Jane
+and say, Jane, can you go check and see if we have any coffee? Because at that moment Jane Smith becomes June Cleaver.
+Now, another dynamic of this, which is really important, is to recognize that Jane may also herself say, let me go see if there's any coffee, because she
+may also have internalized the responsibility of being June Cleaver. And this is really important for us
+to get, that we internalize these same dynamics about ourselves, expectations about ourselves,
+as other people have about us. We're constantly projecting on each other. It's one of the most foundational pieces of the way
+we look at each other as human beings. And so that's all happening on a fast brain level.
+And now we know we also have this capacity for slow brain thinking, the prefrontal cortex, of course, this remarkable part of the human brain, which allows
+us to have thoughts like, hm, what made me think about that? Any of us who have had dogs and put them out the backyard
+know when they see the squirrel, it doesn't seem like they say, should I chase that squirrel? Human beings do have that capacity.
+Now, we don't always use that capacity, of course, but we do have the capacity to have those thoughts.
+And this remarkable capacity of the human brain to have this kind of thinking makes us extraordinary.
+However, when we know that when something triggers us, triggers that limbic fast brain reaction,
+that part of the brain tends to lose its power. In fact, we can look at that brain scans
+and see the blood actually flows back to the limbic system and leaves the prefrontal cortex. Daniel Goleman called this amygdala hijacking.
+The amygdala takes over the system. And this is where are kind of fear reactions come from. Amygdala hijacking puts us back into fight, flight, or freeze,
+sort of more basic, instinctive reactions. Freud said that the conscious, or the more thoughtful,
+part of our brain was the iceberg, and the unconscious, the largest part, underneath. But current research shows that the conscious is more
+like a snowball on the tip of the iceberg, that virtually everything we do is governed by unconscious.
+In fact, the fast brain probably operates a couple hundred thousand times more than the slow brain does.
+So we're constantly making these determinations, which we're then rationalizing. The net of all this is that as Bucky Fuller said,
+99% of who you are is invisible and untouchable. Or as my friend Sukhvinder Obhi, who is a brain scientist in Canada, says,
+"Our brains seem to have evolved to be good enough most of the time." Now, this is a bit threatening to smart people.
+This is why here at Google, you have to be particularly careful about this, because when we've been rewarded our whole life for being smart,
+we begin to believe and have confidence that our opinion, what we see, makes more sense than it
+actually does. And I'm going to talk a little more about that in just a little bit.
+So this creates diagnosis bias, the tendency to spot things and determine it really quickly. Diagnosis bias, we might say, is the propensity
+to label people, ideas, or things based on our initial opinions. So I want you to imagine, for example,
+that you've got a grown son. And your son says, I'm going to bring my love interest home,
+my new love interest home, or son or daughter will say. And they say, we're going to bring our new love interest
+home. And these are the two people whose pictures you see about possibly being the love interest. Who would you be more inclined to hope it is?
+Well, this on the left is John Fetterman. He's the mayor of Braddock, Pennsylvania.
+That's his zip code on his arm. He has a Master's degree in public policy from Harvard, served in AmeriCorps,
+and he's done amazing things about transforming his community financially, goes around the country now, apparently training other communities to do this.
+This is Ted Bundy, the serial killer. [LAUGHING] We make these determinations having
+nothing to do with rationality. This is just who we are and what we do. And this leads to particular reaction.
+Those reactions come from a couple different places. Amy Cuddy and Susan Fisk and Peter Glick
+have identified this in two ways. One is how warmly, how likable that person is, and the other is how competent we hold them.
+And this can show up in lots of ways. We can feel very warmly towards somebody and not respect them and their competence.
+This happens, of course, sometimes with people who are elderly people or people with disabilities,
+that sort of thing, also with certain other groups where we like them, it's just we don't even
+realize because we like them so much how much we're diminishing them. This is where patronizing liberalism can come from also.
+Or we see them as competent, we just don't like them so much. This is a lot what LGBT folks face.
+It's not that people don't think that they're competent, it's just that they may be competent, but I'm just not comfortable with them, somebody might say.
+So it's important for us to be able to distinguish that, because it gives us a better handle on how this might play out in different places.
+Another of these phenomenas is selective attention. And selective attention is one that we all know.
+In fact, [INAUDIBLE] and I were talking recently. He said, you know, I noticed when I found out my wife was pregnant, all of a sudden the next day
+I was out and began to notice baby strollers in a different way. And I began to go up to people and say, tell me
+how come that baby stroller has this versus that. He said, my whole life, I've never had any interest in baby strollers, but one thing happens, and boom.
+All of a sudden I see the world in a different way. We know that we see that. Now, we've had some really fascinating research
+about this. We're doing some work with the American Association of Medical Colleges training people in medical schools
+to be more sensitive to how unconscious bias plays out in things like health disparities. And this study came from there.
+This guy [INAUDIBLE] at Harvard Medical School sent out to radiologists a lung scan, asked them to check for cancer nodes, which are tiny,
+tiny, microscopic things. But there's something interesting about this lung scan. Do you see it up here?
+This grill is a little highlighted so you can see it a little bit more than it was in the original picture. You want to get really scared?
+83% of the radiologists didn't see it. Cancer nodes are about 1/50 of that size.
+They were looking for this. They didn't see this. It's remarkable how this happens. And it happens in lots of other ways.
+Now one particular case, a legal case that this happened in, Kenneth Conley was a police officer who
+was convicted in 1997 of perjury because he was chasing a perpetrator of a crime, ran right past somebody
+who was being beaten up, and denied seeing them. And the court didn't believe him, basically.
+He was convicted of the crime. Now, he was eventually exonerated. Two researchers, Daniel Simons and Chris Chabris,
+who some of you are familiar with because of their gorilla, the invisible gorilla exercise that they were very well known
+for, and they've been really brilliantly out front of this whole inattentional blindness conversation, re-created the experiment.
+They had students run around a campus. One student was following another students
+as they were running. And the student in front was told to touch his cap routinely. And the student behind was told to count
+the number of times they touched the cap. While this was happening, they actually ran past a simulated fight.
+And then they checked how many people actually saw the fight. They found only 1/3 people noticed the fight at night,
+which was the conditions the actual crime occurred, and only 40% noticed it in broad daylight.
+In other words, when we're attentive to one thing, we always miss other things. We can't see everything, so we see
+the things we're focused on. This is why so often when we're in meetings, one person will see a certain something,
+and somebody else will say, well, I didn't see that. And we have a tendency, because of that good person-bad person paradigm where diversity is concerned,
+to assume that that means that people didn't care about it, when in fact they just may not have seen it.
+So this is the nature of how it plays out. Now we also know we're influenced subliminally. So for example, University of Leicester researchers
+recently went into a wine shop, actually a grocery store, the wine department, cleared it out, put only French and German wine on.
+On alternative days, they played French muzak, German muzak, or put a French glad and a German flag up.
+And then tracked buying patterns. On days that the French flag was up, 77% bought French wine.
+On days when German fly was up, 73% bought German wines.
+Only 14% said they even heard the music, and only one person in the entire study
+said that they actually thought it influenced them. Another one from medical school. At University of Toronto medical school,
+they tracked the results of medical school interviews against the weather reports from the day that people were interviewed, put it
+in parallel, found that the people who were interviewed on rainy days received scores in the interview as roughly equivalent to as if they'd
+had 10% lower scores on their MCATs. Nobody thinks a medical school interviewer says, it's rainy,
+I'm going to cut 10 points off, but nonetheless. So these things are influencing us all the time. The question is, of course, what's influencing us today?
+What's impacting us today? And then, as I said before, lot of the new research we're doing
+is around power and empathy, because we're learning some fascinating things. I'm sure that many of you know about the findings on mirror
+neurons, that back in the late '90s in Parma, Italy, in a lab, they determined mirror neurons in macaque monkeys.
+They realized that these monkeys tended to have the same brain experience when they watched a researcher eating peanuts
+as when they were eating peanuts themselves, remarkable. Marco Iacoboni at UCLA later identified this in human beings
+as well. So we have this remarkable capacity to mirror people who are around us and to sense
+what's going on around us. It creates a phenomenon we call homophily, the tendency to love the same, to love people who are like us.
+But we also know that we have a tendency for in group/out group bias. And we've known this for over 100 years.
+William Graham Sumner, the first director of the department of sociology at Yale University,
+determined this way back in 1906. And we're constantly pulled between this tendency to want to resonate with people and this
+in group/out group bias. And it shows up in non-dominant and dominant groups. So people in dominant groups will
+tend to have less mirroring than people who are in non-dominant groups. Those in power will tend to mirror less
+than those who are out of power. And that's true both individually, when we're power holders in organizations,
+that is, managers versus non management, for example, and it's also true when we're in power groups.
+So the dominant groups in society, for example in American society, white male Christian
+heterosexual, that we'll have a tendency to mirror less, to sense what's going on with people less.
+We also know that where empathy is concerned, that what the research shows, and this is research from China, from the US, from Italy,
+from all over the world, that shows us that we tend to have less empathy as soon as we spot people who are different from us,
+and the first classification for that is race, that we'll tend to have less empathy. Now, let's put this in the context
+of traditional diversity training. A lot of the training that we did over the years,
+and I go back way back to the time of the early diversity training where we used to do it with a two-by-four. A lot of it was advocacy work or letting people understand
+what it's like to be a member of this group or that group. Ironically, what the brain science is now teaching us is that may make us less empathetic for the people
+we're dealing with. It doesn't mean that you can't control people that way. You can get people to be careful about what they say.
+But to get people fully engaged, it may be actually counter-indicated to what we're trying to accomplish, maybe well
+intentioned, but counter-indicated to what we're trying to accomplish. AUDIENCE: What's the reason for that?
+HOWARD ROSS: Is because as soon as I identify you as somebody different from me, my empathy center
+begins to slow down. I can now be careful around you, be careful not to upset you, but I'm less likely to resonate with you.
+I'm less likely to actually be fully engaged with you. And so it may be good for controlling diversity, but may be not so good for creating inclusion
+in that regard. It's ironic, because-- at some level, it was what we needed to do in the early days,
+because it's like the sculptor with the big block of stone. You take the big chisel to start to do the work. But from the standpoint of organizations
+who really want to create full inclusion-- and we were just talking about this relative, for example, to when you're working, for example on gender dynamics,
+if you only work with women in gender dynamics, you likely are not going to get the same kind of inclusion
+as if you work with men and women around gender dynamics, as an example. Sukhvinder and his research found
+that it turned out that when people were in a powerless mindset, their mirroring system was increased. They became more sensitive to external stimulus.
+Whereas people who are feeling powerful, the mirror-neuron activation was lower. Power, it turns out, decreases empathy.
+Is there anything we can do about this? I want to talk about this on an individual level real quickly,
+and then I also want to talk with you about systemically what are some things we're learning we can do about this, because we're now working with companies all over the world
+to try to have them develop cultures that are more inclusive understanding these issues.
+So the first is to understand that the unconscious is remarkably malleable, that we've got this remarkable capacity for neuroplasticity.
+The notion that you can't teach an old dog new tricks isn't even true for dogs. We're constantly learning new things.
+The first and by far the most important thing of these three six ways that we're finding for individuals to work
+is to recognize and accept that you have bias, to remove guilt from the equation and start taking responsibility.
+Now this is hard, because a lot of the diversity conversation is lived in guilt. And that's challenging, this notion if I have bias,
+oh, my God, I'm a bad person. I thought I was a better person, but I'm a bad person. But in actuality, if we can't choose that,
+if 90 plus percent of the things that happen every day in organizations that differentially impact one person versus another
+occur more like what I talked about in this interview than they do because somebody's out to get somebody, it's challenging for us to accept that in ourselves
+and work with it. The metaphor I like to use is it's kind of like the clutch in a standard transmission automobile.
+When the standard transmission automobile, you step on the clutch, the engine doesn't stop running. It just stops motoring the car.
+So this is where mindfulness work can really come in, learning self-observation work can really come in to help us.
+We can begin to notice the bias in ourselves. But by noticing it with nonjudgmental awareness,
+we can say, OK, I have that bias. I need to watch how that impacts my interaction with this person. But that is fundamentally built on the notion
+that we can create environments in which we can talk about those biases. And we know that we live in a cultural environment
+where that's not welcomed right now. It's dangerous. It has legal implications, particularly.
+So that can be really problematic. And that's why the second is most important, to develop the capacity to-- well, we call it using a flashlight
+on ourselves. My friend Michael [? Sheeser ?] coined that term, to watch ourselves in action.
+Are there certain people who trigger us more? Are there certain circumstances in which we feel a little antsy?
+Are there certain ways of being that cause us to make quick reactions more easily?
+And by the way, this piece is really important, especially for Googlers, because you've got so many smart people here. How much does intelligence, confidence, and success
+matter to this? Well, actually what the research now shows is that people who are intelligent, successful,
+and highly confident are more likely rather than less likely to have blind spots. The more you feel like you've got this handled,
+the more dangerous it becomes. It requires an enormous sense of humility, and I say this all the time to my colleagues in the diversity
+space, that we have to be careful that we don't come in like our stuff don't smell, like we don't have this issue.
+The reason I started with the story about myself and the angry Santa Claus was because even though I've been doing this for 30 years,
+I'm still just as susceptible to bias as anybody else is. Now hopefully we can get to the place where we can notice it more and embrace it more.
+But as you take this work out, you're going to have to be careful that all the great work you've done doesn't reaffirm, OK, now that we've got this handled,
+we don't have to keep looking at it. And this is particularly challenging in environments like yours. It requires us practicing constructive uncertainty,
+to really take a pause. Rollo May, the great psychologist, said, "Freedom is the capacity to pause between stimulus and response."
+So we've created this little mnemonic. The P is to Pay attention to what's actually
+happening beneath our judgments and assessments. And then the second is to Acknowledge your own reactions, interpretations, and judgments.
+The third is to Understand other potential reactions that might be there. And then to Select the one that's the most empowering in the environment.
+And finally to Execute that. So I go back to Will and my handshake. He shakes my hand, and its softer.
+He says, OK, I noticed his handshake is softer. I notice that I have a tendency, let's say, to interpret that as weakness.
+I've got to be careful about that. He could have an injury. At that moment, he's now thinking from here rather than from over there.
+That's a moment of freedom. That's when we have the moment to make a determination, potentially, about what's going on with that person.
+To explore awkwardness and discomfort-- those times when something's off, rather than to back away from it and search to comfort, say, what's triggering me here?
+What's making me uncomfortable? The fifth is to engage with people you consider to be others and expose yourself to exemplars.
+So this is really interesting. Brian [INAUDIBLE] and Calvin [INAUDIBLE] at the University of Virginia just last year
+issued a paper where they studied a whole host of attempts that people had to soften the impact of bias and found
+that this was by far the most valuable one, the things you have on the wall, the images that you see,
+the various kinds of things that reinforce what's good, what's not good. This is why things like Black History Month
+are so valuable still, even though they would be a lot more valuable if the 11 months weren't White History Month,
+and if we didn't choose the shortest month of year to be Black History Month, which has always been kind of interesting. But those kinds of things do reinforce a softening
+or a shifting of those biases. And then finally, giving and getting feedback-- and I know that you're working a lot on that in your culture
+right now, that being able to give feedback. But it's important that that feedback be given in a compassionate way, and that
+is with an understanding that that person's behavior may not have been intentional, especially where diversity
+issues are concerned, because if that feedback reinforces the finger-pointing aspect of it, then it just drives it back underground again.
+People begin to go into hiding rather than simply engage in that behavior. And the last piece as we look at the group
+is understanding social primacy. I mean, we're all familiar with Maslow's hierarchy, I'm sure. Abraham Maslow 70 years ago said you
+had to get basic needs met before you get other needs met. He said physiological needs met first then safety and onward, brilliant model,
+tremendously helpful to science. It appears that he may have been wrong, that in fact our need for belongingness
+may be a key human need. And it makes sense if you think about a newborn baby can't
+get their physiological needs met unless they belong to somebody. The first imprint that we have as human beings
+is, I only exist because he or she exists. And this is core to us, this sense.
+And in fact, what science is now showing is that being excluded from group
+triggers activity in the same regions of the brain associated with physical pain, which is why every time one of these horrible instances happen, whether it's Columbine
+or Sandy Hook or this terrible thing that happened in Southern California a couple months ago, what's the first word you
+almost always hear to describe the perpetrator? AUDIENCE: Loner. HOWARD ROSS: Loner, exactly.
+It also probably contributes to the fact that four times as many gay teenagers commit suicide, because it gets internalized.
+And so we have to recognize that how we operate as a group has a huge impact on us. And this is why what you're taking on,
+training the entire organization, could have a huge impact. We have to change systems so that we're thinking from a systems perspective.
+Now, just to give you an example of that, a lot of you know that in 1970, 5% of musicians
+in the major orchestras in the world were women, and even after 1980, after 10 years of the women's movement,
+it was still only 12%. But now it's getting close to 40%. And why is that?
+Because orchestras around the world put in a whole host of activities designed to change the way they did that.
+They opened up auditions to people. They changed the way auditions were calibrated in terms of the numbers of people
+who are on the listening team. And they also did something structurally,
+which is to have musicians begin to audition behind screens and on rugs so that people could only evaluate
+the music rather than the musician. Well, you can begin to do things like that. On the other hand, we have to be careful to understand,
+to track things over time-- how many people here have heard if the Scared Straight program? Anybody? Scared Straight was initiated in the late 1970s
+in Rahway, New Jersey, in a prison. They started bringing in young, what they called in those days
+juvenile delinquents-- we now call them youth offenders-- bring them in with tough prisoners.
+And the tough prisoners would scare the hell out of them and tell them, we'll do this to you and that to you if you come into prison.
+And they'd leave and you could see them on film. "60 Minutes" did a piece on it. You'd see them and they said, I don't want to go to prison. [MOCK CRYING] So great,
+everybody started copying it. "Orange is the New Black" even had an episode about it. 25 years later, they evaluated these programs.
+Do you know what they found? 13% more likely to go to jail. [LAUGHING] Now, my hypothesis about this, because I've
+worked with a lot of young people like that, is that most of them feel powerless. And their bravado is on top of that feeling of powerlessness.
+You put somebody who feels powerless in with somebody who's the toughest SOB they've ever seen before, their internal mechanism says,
+if I act like that, then I'll be safe. So we have to be really careful as we put these things in place.
+So what we're starting to look at is three basic ways of doing organizational change around this. The first is priming.
+What kinds of things do you have people look at before they come into a circumstance? So for example, before people look at resumes,
+take a few minutes and say, I want you to answer these eight questions. Does this resume remind you of anybody?
+Is that a positive or a negative memory? Is there something about his resume that jumps out at you particularly strongly? Is that really relevant to the job?
+Does this person remind you of yourself in any way? Is that relevant to the job? So questions that begin to orient.
+Now there's two things. First of all, it actually gets you to look at the resume in a particular way. And by the way, all of this follows some basic education
+work around this issue. But secondly, and more importantly, it reminds me, wait a second. I've got to pay more attention to the evaluator
+than I do to the resume. And just that recognition, that awareness, is really important. So there are dozens of ways that we can look at priming
+and have started to work with our clients around priming so that they come into these questions,
+into these various structures, in particular ways. The second way is to look at systems and structures. So we just saw a good example of that.
+When you have people do their audition behind a screen, that's a different system or structure.
+Where interviewing is concerned, for example, do you use structured interviewing but also conduct
+interviews in the same place or at the same time of day? Before you do the interviews, do you give people, potentially,
+the questions that they're going to be asked so that people who are introverted versus extroverted, or people who come from different cultures, or for whom
+English is their second language, aren't at a disadvantage in terms of quickly responding to those questions.
+So we can look at all kinds of ways to do that. The third is, of course, accountability.
+And that is, what are we tracking? What are the numbers we're tracking? Kohneman said, "The odds of limiting the constraints of biases in a group setting
+rise when discussion of them is widespread." So that you're talking about it a lot actually
+will encourage people to take it more seriously. Now, if that becomes yeah, yeah, yeah in the background, that's the problem.
+The problem is, how do we keep talking about it in new and different ways? How do we keep keeping it fresh for people? Because at some point, it becomes like the wallpaper.
+You look at the mountains out here, these beautiful mountains, and most of you probably don't even notice them anymore if you've been coming here every day,
+because they become like the wallpaper in the background. And even though they were extraordinary and beautiful the first time you saw them, at some point they're just there.
+So we have to keep this conversation fresh. So we're looking at a whole range of things.
+We look in talent management, how do we recruit, outsource, interview, hire, onboard, mentor, and sponsor, performance review, calibration,
+recognizing talent, developing, promoting that talent? What are the things that contribute to all of those kinds of things?
+We're looking at the various ways that people operate internally, interpersonal interactions, collaboration, leadership, team functionality, creativity,
+and innovation. How does it contribute to all those kinds of things, and finally to the external relationship that we have?
+And in each of these areas, you can begin to put in place little tweaks.
+One of my colleagues in Europe calls them inclusion nudges, a little nudge that has people looking in this direction or that direction
+so that we can begin to say, OK, let's stop and look at this process. Now, in order to do that, we've got to slow down.
+We've got to build pauses into our processes. We've got to be able to ask, is this process actually
+doing what we think it's doing? Are there factors here that are influencing us that we don't know that are influencing us?
+And this is, of course, anathemous sometimes to most American business cultures. You see, even if we do all of this, we're in danger.
+Even if we put all the right systems in place, we can be in danger of not being very effective.
+I've struggled with my weight my whole life up until the last few years. I've been 30 or 40 pounds heavier than I am now.
+And if you look at the weight chart for most of my life up until about three years ago when I became vegan, it's been like this.
+And during all that time when I was heavy, I knew everything there was to know about dieting. I promise you, I read every diet book there was.
+I tried every fad diet there was, and not like it's that hard anyway. You eat less and you exercise more, right?
+I'm sure everybody here has something like that in your life, something you know you should be doing but you don't do.
+There's something beyond developing strategies. And that is developing new awarenesses for the way
+we think. This is what you have the capacity to do here in what you're trying to do with your unconscious bias process,
+and that is to really shift our way of thinking. It's scary to us as human beings. Because if we really understand what this stuff is teaching us,
+it's that we can't trust the way we think. And that's a scary feeling for us as human beings. We want to go towards certainty.
+We want to go to thinking that we know what we're doing. So I'd like to end with this picture. This is a picture of an Aspen forest in Colorado.
+Because for me it's a perfect metaphor for who we are as human beings. I'm sure many of you have seen these Aspen trees.
+They're remarkable. They're 80 to 100 feet tall and there are thousands of them. They stay ramrod straight on these beautiful mountainsides.
+And there's something really remarkable about Aspen trees. And that is they're not individual trees at all.
+The Aspen forests are the largest intact organisms of the world. The largest one in northern Utah is 80,000 trees,
+one plant connected by a common root system. For me, it's a perfect metaphor for who we are as human beings.
+We can look at these identities as if we're different, and we do have different content on our identities.
+We do have different experiences in our life and different ways our identities shape our world. But at an underneath level, at the root level,
+we basically relate to the world very similarly. And if we can remember that as we're dealing with each other
+and bring compassion to each other in that way, our opportunity to really understand how we see the world becomes very real for us,
+and the ability to work together, create organizations where everybody can be effective, becomes possible.
+Thanks. [APPLAUSE]
+AUDIENCE: So I was just wondering, did you stay in touch with Dr. Santa?
+HOWARD ROSS: No, unfortunately. I was so stunned that I didn't even think to do-- I was just sort of-- in fact, instantly
+what I did is I started judging myself. I can't believe you did this after 25 or 30 years of doing diversity work.You're still doing this.
+And then by that time, he was gone. But it was one of those sort of moments, if you will.
+AUDIENCE: So you had a slide up there about how different races affect empathy.
+HOWARD ROSS: Yes. AUDIENCE: Have there ever been studies done on does the type of like the differences in races,
+like different types of races, how that affects the amount of empathy? Or is it just-- HOWARD ROSS: How it affects that what of empathy?
+I'm sorry? AUDIENCE: How much, like the differences in empathy, like how much you empathize with someone else.
+Is there any studies on the different types of-- HOWARD ROSS: Oh, you mean in other words does one race trigger empathy less than others?
+AUDIENCE: Yeah, exactly. HOWARD ROSS: I don't know of that. But my suspicion would be, based on my experience of working with this in other areas,
+is that it probably relates more to your own background and how those racial dynamics showed up in your particular community or the structure
+around you when you grew up. So if you grow up in an environment, let's say in the United States, where the race conversation
+has most dramatically been defined between black and white, it probably is stronger there, which is one of the reasons why Latinos
+and Asians and Native Americans, for example, often feel left out of that conversation. Because we tend to look at the extremes.
+But we do know that race is the first thing that the human mind responds to when we look at each other, which really makes sense
+if you think about it, because gender, for example, almost everybody has had some intimate relationship with somebody
+of the opposite gender, but many of us do not necessarily have any kind of intimate relationship with somebody of the opposite race.
+So it's the first identifier that we see, and therefore the first protective reaction we tend to come up with.
+The other thing is that, of course, because of internalized bias-- we used to call it internalized oppression.
+It's now often called stereotyped threat. We internalize the messages about people like us.
+For example, when they do the implicit association test, they find that if you do the implicit association
+test between whites and blacks, that something like 75% of whites will more positively associate
+with whites than blacks, but a majority of blacks will also associate with whites more than blacks, because they've internalized the same negative stereotypes
+about people like them. So the key here is to recognize that even when we're good people and we think we're being fair,
+we may have a tendency to have less identification. And if we put this in the context of the Fisk and Cuddy
+work warmth and competence, the way that cam show up is,
+I may have warmth for you, but my empathetic response may not be in being sensitive to the competence you
+bring to the conversation. And this is hard for us, those of us who are progressives and see ourselves as really progressive on this issue.
+I tell you, my experience has been that working with organizations that see themselves as progressive is sometimes more challenging rather than less
+challenging around these issues, because we identify as seeing ourselves as the good people, the ones who have this
+handled, and are less likely to be able to look at things in ourselves. Whereas when we go into really conservative organizations,
+they say, I don't know anything about this. Teach me what to do. They are very clear that they haven't paid any attention to this. And so that's why organizations in progressive-thinking
+organizations like Google have to especially keep your nose to the grindstone, so to speak,
+in terms of continuing to develop that mindfulness around this topic. Because our success, our competence
+can blind us to the places we still have work to do. And this is not a place we get to.
+It's a like exercise. You never get there. If you build it into your life on a regular basis, you know that it will maintain your health,
+but if you think you're just going to exercise until you get yourself into shape and then stop, you know how that works out.
+Seems like at my age, two minutes later I'm out of shape. AUDIENCE: One of the largest concerns with diversity
+training is the potential for backlash, especially among individuals who feel like they are not
+benefiting from the training. HOWARD ROSS: Yes. AUDIENCE: So given this concern, what are some recommendations
+that you would recommend when giving diversity trainings to ensure that it is something that
+is inclusive for all employees? HOWARD ROSS: Yeah. It's a great question. And it goes back to the point I made
+before about sort of the traditional diversity training, which has largely been aimed at people, certain groups of people, particularly
+people who look like this, frankly. Diversity training is to teach white guys to be more inclusive, more whatever.
+I'm Jewish, and I know Jewish people who rail against anti-Semitism and make a questionable racial comment.
+I know African Americans who rail against racism and then make a homophobic or heterosexist comment. I know LGBT folks who rail against that and then
+make a questionable comment about immigrants. We've all got something going on with somebody. And I think one of the things we need to do
+is to speak to the universality of that. That doesn't mean that all biases are the same, because we
+know that there's certain biases that are systemically supported by society or by an organizational system.
+And so even though an individual may have prejudice against somebody else, it's different to have a prejudice
+than it is to have a bias or an -ism, as we might say, which is systemically supported. But this is why it's so important for us
+to remove this sort of good person/bad person fixing mindset. One of the reasons that people are
+hesitant to get involved in diversity work-- there's a powerful sense of diversity fatigue out there-- is because so much of it
+feels like people are having their finger waved at you. And you're being told to be a better person,
+and I'm here to fix you. And so things like inviting people from dominant groups
+into these conversations, building a strong business case, getting people to see. It's much easier-- when I started doing the work close
+to 30 years ago now, we didn't have data. Now we have data to show that research shows
+that you get more diverse people, you get better innovation, you get better problem solving. Research shows that the market shares are shifting,
+and we know these demographics are changing. You need to reach that market share. So it's pretty easy to build a business case now and to get people to realize this is not for those people.
+It's for all of us. And that's got to be a constant conversation. And then the second piece of that is, for those of us
+who are practitioners, when we get that resistance, when we're sensing that resistance, rather than point
+fingers at the resistors and say, why are they resisting? To start asking ourselves the question, what are we doing to contribute to that resistance?
+What can we do differently to invite them into the conversation? Because it's very easy-- and I've been there before.
+You feel sometimes like you're beating your head against a brick wall when you're trying to get people into the conversation.
+But it's very easy to make them the problem. But the reality is, we must be contributing something for them
+not to be welcomed into the conversation. And so to find ways where we can get more folks into the conversation so that it's not
+one group talking to another group but rather a collective group sharing it with everybody in the organization or the system.
+ELIZABETH CURTIS: All right. Well, thank you so much for being here with us today. HOWARD ROSS: Great. Thank you. ELIZABETH CURTIS: Howard is going to stick around for a little bit.
+He'll be signing books right out here if you're interested. And thanks for joining us. HOWARD ROSS: Great. Thank you, everybody.
+
+Deliverable 2 (50%)
+
+For your second deliverable, write a paragraph responding to each of the videos you watched
+(i.e. four paragraphs in total). Your paragraph should include:
+	1. A brief definition of the concept.
+	2. A discussion of the importance of this concept to effective team building.
+	3. A discussion of how the concept relates to the concepts presented in the other
+	videos in the context of team building.
+
+Rubric:
+
+Note: Watching the videos (Deliverable 1), automatically earns you 50% of the total points.
+Deliverable 2 - Writing the summary, earns you the remaining 50%. Please see the breakdown
+below:
+Maximum 12.5 points per paragraph for a relevant, thoughtful, insightful, original,
+well-developed response.
+
+Points allocation per paragraph:
+● 100%: Excellent
+● 90%: Good
+● 80%: Satisfactory
+● 70%: Poor
+● 60%: Very Poor
+Deductible points:
+● Definition not provided: -2 points
+● Discussion of importance to team-building not included: -5
+points
+● Concept not linked to other videos: -2 points
